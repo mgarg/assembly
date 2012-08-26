@@ -49,6 +49,7 @@ local.properties
 *.ilk
 *.meta
 *.obj
+*.exe
 *.pch
 *.pdb
 *.pgc
